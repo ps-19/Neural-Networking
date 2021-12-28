@@ -7,7 +7,6 @@ using namespace std;
 #pragma GCC optimize("Ofast,no-stack-protector,unroll-loops,fast-math,O3")
 #pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native")
 #define ll  long long
-#define int long long
 #define ld  long double
 #define endl "\n"
 #define pb  push_back
